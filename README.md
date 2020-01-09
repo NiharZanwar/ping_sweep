@@ -1,4 +1,4 @@
-# ping_sweep
+# Ping Sweep Utility
 small shell script to ping range of ip addresses
 
 ## Usage
